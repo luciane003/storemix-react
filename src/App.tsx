@@ -23,6 +23,9 @@ function App() {
       }
     });
     setCart(changeQuantity);
+
+    const newCartCount = changeQuantity.reduce((total, item) => total + item.quantity, 0);
+    setCartCount(newCartCount);
   }
 
   const handleAddToCart = (product: { image: string, name: string, price: string }) => {
