@@ -9,6 +9,19 @@ Um dos principais desafios que enfrentei foi passar informações do componente 
 ## Projeto online
 [Projeto](https://luciane003.github.io/storemix-react/)
 ## Funcionalidades
+- Listagem de produtos: todos os produtos aparecem em cards com imagem, nome, cor, tamanho e valor.
+
+- Página de detalhes: ao clicar em um produto, é possível ver informações detalhadas.
+
+- Carrinho de compras: adicionar, remover e atualizar quantidade de produtos.
+
+- Avaliação de produtos: estrelas que indicam a nota de cada item.
+
+- Mensagem animada: ao adicionar um produto ao carrinho, e ao comprar, aparece uma confirmação visual.
+
+- Responsividade: o site se adapta a telas grandes e pequenas (mobile friendly).
+
+- Navegação: usando HashRouter para controlar rotas dentro do app.
 
 ## Tecnologias 
 <div style="display: inline_block; text-align: center">
@@ -29,7 +42,9 @@ npm run dev
 ```
 
 ## Visualização
-
+<p align="center">
+    <img src="./public/preview/project-view.gif" alt="Visualização do projeto" width="600" style="border: 2px solid #CCC border-radius: 8px;">
+</p>
 ## Autora 
 -  Luciane Kellen
 - Feito como parte do meu processo de aprendizagem.
