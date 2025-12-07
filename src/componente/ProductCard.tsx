@@ -4,7 +4,7 @@ export interface ProductCardProps {
     image: string;
     name: string;
     price: string;
-ratin: number;
+    rating: number;
 }
 
 function ProductCard({ image, name, rating, price  }: ProductCardProps) {
