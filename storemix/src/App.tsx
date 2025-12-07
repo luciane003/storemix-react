@@ -1,11 +1,10 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import {HashRouter as Router, Routes, Route, Link} from 'react-router-dom';
 import Home from './paginas/Home';
 import Details from './paginas/Details';
 import './index.css';
 import { useState } from 'react';
 import { FaShoppingCart } from 'react-icons/fa';
 import Cart from './paginas/Cart';
-import {Link} from 'react-router-dom';
 
 function App() {
   const [cartCount, setCartCount] = useState(0)
