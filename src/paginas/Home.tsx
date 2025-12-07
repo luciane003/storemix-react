@@ -5,49 +5,49 @@ import { FaSearch } from "react-icons/fa";
 
 const products: ProductCardProps[] = [
   {
-    image: '/imagens/batom-vermelho.png',
+    image: './imagens/batom-vermelho.png',
     name: 'Batom Rouge Elegance',
     rating : 5,
     price: 'R$39,90',
   },
   {
-    image: '/imagens/cadeira-confortavel.png',
+    image: './imagens/cadeira-confortavel.png',
     name: 'Poltrona Confort Luxe',
     rating: 4,
     price: 'R$499,90',
   },
   {
-    image: '/imagens/caderno-anotacao.png',
+    image: './imagens/caderno-anotacao.png',
     name: 'Caderno de Ideias Vintage',
     rating: 5,
     price: 'R$29,00',
   },
   {
-    image: '/imagens/caixinha-de-fone-de-ouvido.png',
+    image: './imagens/caixinha-de-fone-de-ouvido.png',
     name: 'Case para Fones Compact',
     rating: 4,
     price: 'R$39,90',
   },
   {
-    image: '/imagens/fone-de-ouvido.png',
+    image: './imagens/fone-de-ouvido.png',
     name: 'Fone de Ouvido Gardner',
     rating: 5,
     price: 'R$69,79',
   },
   {
-    image: '/imagens/garrafa-de-agua.png',
+    image: './imagens/garrafa-de-agua.png',
     name: 'Garrafa Térmica Urban',
     rating: 4,
     price: 'R$80,00',
   },
   {
-    image: '/imagens/iluminaria.png',
+    image: './imagens/iluminaria.png',
     name: 'Luminária Dourada Minimal Light',
     rating: 5,
     price: 'R$140,90',
   },
   {
-    image: '/imagens/vaso-de-planta.png',
+    image: './imagens/vaso-de-planta.png',
     name: 'Vaso Transparente Serenity',
     rating: 4,
     price: 'R$45,90',
