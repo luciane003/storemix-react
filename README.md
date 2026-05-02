@@ -32,7 +32,6 @@ Um dos principais desafios que enfrentei foi passar informações do componente 
   <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
 </p>
-<br>
 
 # Como rodar o Projeto
 Passo a passo para instalar dependências e rodar localmente:
