@@ -3,6 +3,12 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.tsx'
 
+const rootElement = document.getElementById('root')
+
+if(!rootElement) {
+  throw new Error('Elemento não encontrado')
+}
+
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
