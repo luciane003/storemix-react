@@ -7,7 +7,7 @@ StoreMix é um projeto de front-end em React com TypeScript, focado em criar uma
 Um dos principais desafios que enfrentei foi passar informações do componente pai para o filho no React. No início, achei um pouco confuso lidar com props e estados, mas com pesquisas e prática consegui entender a lógica e aplicar corretamente no projeto.
 
 ## Projeto online
-[Projeto](https://luciane003.github.io/storemix-react/)
+[Projeto](https://storemix-react.vercel.app/)
 ## Funcionalidades
 - Listagem de produtos: todos os produtos aparecem em cards com imagem, nome, cor, tamanho e valor.
 
